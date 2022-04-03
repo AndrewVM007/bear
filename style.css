@@ -14,7 +14,13 @@ font-size: 36px;
 line-height: 44px;
 color: #000000;
 }
-  
-  
-  
+.botton {
+  position: absolute;
+  left: 13.79%;
+  right: 66.04%;
+  top: 10.49%;
+  bottom: 88.07%;
+  background: #B7D271;
+  border-radius: 15px;
+}
   
