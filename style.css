@@ -23,8 +23,13 @@ color: #000000;
   background: #B7D271;
   border-radius: 15px;
 }
-
-
+.navbar{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+}
 
 
 
