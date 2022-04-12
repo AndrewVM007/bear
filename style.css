@@ -52,7 +52,7 @@ text-transform: uppercase;
 
 
 }
-.navbarbear  li{
+.navbarbear  {
 display: flex;
 }
 
