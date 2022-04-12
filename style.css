@@ -32,11 +32,12 @@ color: #000000;
 }
 .navbar ul {
   list-style-type: none;
+  text-aling: right;
 
 
 
-
-.navbar ul a{
+.navbar ul a {
+  a: link;
 
 
 
