@@ -32,6 +32,7 @@ color: #000000;
 }
 .navbar ul {
   list-style-type: none;
+
 }
 
 
@@ -56,6 +57,7 @@ text-transform: uppercase;
 display: flex;
 max-width: 1100px;
 margin: 0 auto;
+gap: 125px;
 }
 
 
