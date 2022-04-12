@@ -37,7 +37,9 @@ color: #000000;
 
 
 .navbar ul a {
-  a: link;
+ color: #ffc;
+	text-decoration: none;
+	padding: 5px;
 
 
 
