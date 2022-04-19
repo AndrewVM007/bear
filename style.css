@@ -60,7 +60,7 @@ gap: 125px;
 .left1{
 background: no-repeat url=("images/beer.png") bottom 20px right 20px;
 max-width: 1300px;
-
+margin: 0 auto;
 
 }
 
