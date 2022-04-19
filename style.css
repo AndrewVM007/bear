@@ -19,9 +19,8 @@ max-width: 600px;
 .button {
   background: #B7D271;
   border-radius: 15px;
-max-width: 350px;
+width: 350px;
 border: 0;
-color: #FFFFFF;
 }
 .navbar{
   font-family: 'Roboto';
