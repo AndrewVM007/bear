@@ -63,15 +63,11 @@ background: no-repeat url("images/beer.png") bottom 20px right 20px;
 max-width: 1300px;
 margin: 0 auto;
 padding-top: 250px;
+padding-bottom: 300px;
 position: relative;
 }
 .src {
 position: absolute;
 left: 0;
-bottom: 0;
-
-
-	
-	
-	
+bottom: 0;	
 }
