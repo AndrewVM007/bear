@@ -34,9 +34,6 @@ color: #000000;
   list-style-type: none;
 
 }
-
-
-
 .navbar ul a {
  color: #000;
 text-decoration: none;
@@ -60,6 +57,10 @@ max-width: 1100px;
 margin: 0 auto;
 gap: 125px;
 }
+.left1{
+background: img="images/beer.png";
 
+
+}
 
   
