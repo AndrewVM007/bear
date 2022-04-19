@@ -58,7 +58,7 @@ margin: 0 auto;
 gap: 125px;
 }
 .left1{
-background: img="images/beer.png";
+background: no-repeat url("images/beer.png");
 
 
 }
