@@ -17,13 +17,17 @@ color: #000000;
 max-width: 600px;
 }
 .button {
-  position: absolute;
-  left: 13.79%;
-  right: 66.04%;
-  top: 10.49%;
-  bottom: 88.07%;
   background: #B7D271;
   border-radius: 15px;
+max-width: 350px;
+border: 0;
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+color: #FFFFFF;
 }
 .navbar{
   font-family: 'Roboto';
