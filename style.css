@@ -78,3 +78,6 @@ bottom: 0;
 .frame{
 display: flex;
 }
+.frame p{
+max-width: 400px;
+}
