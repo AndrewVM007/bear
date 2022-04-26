@@ -79,6 +79,8 @@ bottom: 0;
 display: flex;
 padding-left: 70px;
 padding-top: 120px;
+max-width: 1300px;
+margin: 0 auto;
 }
 .frame p{
 max-width: 400px;
