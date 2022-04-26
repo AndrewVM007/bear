@@ -77,6 +77,8 @@ bottom: 0;
 }
 .frame{
 display: flex;
+padding-left: 70px;
+padding-top: 120px;
 }
 .frame p{
 max-width: 400px;
